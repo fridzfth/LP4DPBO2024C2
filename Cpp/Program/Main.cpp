@@ -1,3 +1,5 @@
+// Saya Mohammad Faridz Fathin mengerjakan LP4 dalam mata kuliah
+// DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan
 #include "Motorcycle.cpp"  // Mengimpor definisi kelas Motorcycle
 #include "Car.cpp"         // Mengimpor definisi kelas Car
 #include "Garage.cpp"      // Mengimpor definisi kelas Garage
