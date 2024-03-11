@@ -1,5 +1,5 @@
 from typing import List
-
+# Saya Mohammad Faridz Fathin mengerjakan LP4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan
 # Definisi kelas Vehicle, Car, Motorcycle, Garage, dan ParkingLot seperti sebelumnya
 
 from Vehicle import Vehicle
