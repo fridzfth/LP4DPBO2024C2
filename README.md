@@ -6,7 +6,8 @@ DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang 
 ## Vehicle Parking System
 
 This Python program simulates a vehicle parking system with classes representing vehicles (Car and Motorcycle), a parking lot, and garages. The system allows users to park cars and motorcycles in designated parking spaces, and it provides information about the current state of the parking lots and garages.
-
+### Class Design
+![alt text](https://drive.google.com/file/d/1S16sR0FMerEgTfNoQwPK3pUbgsJilqYT/view?usp=sharing)
 ### Classes
 
 1. **Vehicle Class**
